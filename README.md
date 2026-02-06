@@ -12,6 +12,10 @@ _Un proyecto educativo para aprender el manejo de excepciones en Programación O
 
 ---
 
+> 📖 **¿Buscas la teoría?** Consulta el archivo **[TEORIA.md](TEORIA.md)** para ver los conceptos explicados paso a paso.
+
+---
+
 ## 🎯 ¿Qué vas a aprender?
 
 Este proyecto simula un **sistema de préstamo de libros de una biblioteca** donde aprenderás a:
@@ -336,8 +340,10 @@ Probando LibroNoDisponibleException y LimitePrestamosExcedidoException...
 
 ## 📚 Material de Apoyo
 
-- 📄 Consulta el archivo `TEORIA.md` para ver la teoría completa de excepciones en Java
-- 🎓 Contenido adicional disponible en el CAMPUS
+| Recurso                       | Descripción                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| 📄 **[TEORIA.md](TEORIA.md)** | Teoría completa de excepciones en Java (Checked, Unchecked, personalizadas) |
+| 🎓 **CAMPUS**                 | Contenido adicional y ejercicios en la plataforma del curso                 |
 
 ---
 

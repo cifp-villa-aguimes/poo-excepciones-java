@@ -12,6 +12,10 @@ _Material teórico de la Unidad 4 - Programación [Excepciones]_
 
 ---
 
+> 💻 **¿Quieres ver el código?** Vuelve al **[README.md](README.md)** para ver el proyecto práctico.
+
+---
+
 ## 📋 Índice
 
 1. [¿Qué es una excepción?](#-qué-es-una-excepción)
